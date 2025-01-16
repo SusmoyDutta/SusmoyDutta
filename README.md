@@ -28,8 +28,11 @@
 ###
 
 <div align="center">
- <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=susmoydutta" alt="GitHub Streak" /></a>
+  <a href="https://git.io/streak-stats" target="_blank">
+    <img src="https://streak-stats.demolab.com?user=susmoydutta" alt="GitHub Streak" />
+  </a>
 </div>
+
 
 ###
 
